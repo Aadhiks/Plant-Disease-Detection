@@ -22,7 +22,7 @@ TensorFlow / Keras
 
 OpenCV
 
-Flask / FastAPI (for deployment)
+Streamlit
 
 Jupyter Notebook
 
@@ -42,7 +42,7 @@ TensorFlow / Keras
 
 OpenCV
 
-Flask / FastAPI (for API deployment)
+Streamlit(For displaying the project)
 
 📊 Model Performance
 
